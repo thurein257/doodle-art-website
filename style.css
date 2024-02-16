@@ -475,7 +475,7 @@ footer .right p{
         font-size: 13px;
     }
 }
-@media screen and (max-width:375px){
+@media screen and (max-width:395px){
     nav .links a{
         font-size: 12px;
         padding: 0px;
