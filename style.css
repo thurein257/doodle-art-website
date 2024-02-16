@@ -475,3 +475,28 @@ footer .right p{
         font-size: 13px;
     }
 }
+@media screen and (max-width:375px){
+    nav .links a{
+        font-size: 12px;
+        padding: 0px;
+    }
+    nav .login button{
+        font-size: 10px;
+        padding: 6px 3px;
+    }
+    .nft-shop .category a{
+        padding: 8px 5px;
+        font-size: 12px;
+    }
+    .nft-shop .art-list .item{
+        width: 34%;
+    }
+    .nft-shop .art-list .item .detail p{
+        padding: 3px;
+        font-size: 10px;
+    }
+    .nft-shop .art-list .item .detail a{
+        padding: 4px;
+        font-size: 9px;
+    }
+}
